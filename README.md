@@ -1,2 +1,2 @@
 # go-backend-graduates
-go-backend-graduates
+Go Backend Graduates
